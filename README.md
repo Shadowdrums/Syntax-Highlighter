@@ -50,8 +50,8 @@ End the code block with three backticks and press Enter on an empty line to subm
 
 ### Example:
 
-"```py"
-"def hello_world():"
-    "print("Hello, world!")"
-"```"
+(```py
+def hello_world():
+    "print("Hello, world!")
+```)
 Output: The tool will display the syntax-highlighted code in the terminal.
