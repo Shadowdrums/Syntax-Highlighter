@@ -59,7 +59,7 @@ def hello_world():
 
 you open with three back ticks followed by the file extension for the coding language, then write your code, finally close it with 3 back ticks, new line for each step.
 
-press 'ENTER' for new line, program will not finsih and add syntax highlighting till 'ENTER' is pressed after the closing three back ticks (```)
+press 'ENTER' for new line, program will not finsih and add syntax highlighting untill 'ENTER' is pressed after the closing three back ticks (```)
 
 ### Output: The tool will display the syntax-highlighted code in the terminal.
 
