@@ -50,9 +50,12 @@ End the code block with three backticks and press Enter on an empty line to subm
 
 ### Example:
 
-(```py
+(```py)
+```py
 def hello_world():
-    "print("Hello, world!")```)
+    "print("Hello, world!")
+```
+(```)
 
 you open with three back ticks followed by the file extension for the coding language, then arite your code, dinally close it with 3 back ticks, new line for each step.
 
